@@ -30,6 +30,8 @@ ArrayAdapter<Sports> adapterSports;
         initialize();
     }
 
+    //test
+
     private void initialize() {
         listViewSports = (ListView) findViewById(R.id.listViewSports);
         btnShow = (Button) findViewById(R.id.buttonShow);
