@@ -30,7 +30,7 @@ ArrayAdapter<Sports> adapterSports;
         initialize();
     }
 
-    //test
+    //te
 
     private void initialize() {
         listViewSports = (ListView) findViewById(R.id.listViewSports);
