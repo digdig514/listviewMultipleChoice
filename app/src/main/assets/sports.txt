@@ -1,0 +1,6 @@
+100,Soccer
+200,Handball
+300,Basketball
+400,Volleyball
+500,Waterpolo
+600,Judo
